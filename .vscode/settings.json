@@ -1,0 +1,7 @@
+{
+    "markdown.marp.themes": [
+      "https://example.com/foo/bar/custom-theme.css",
+      "./themes/UCASSimple.css",
+      "./themes/UCASSce.css"
+    ]
+  }
