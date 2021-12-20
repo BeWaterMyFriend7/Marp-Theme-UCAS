@@ -26,7 +26,9 @@ Marp
 
 ## Some Picture
 
-<![img1](doc/SimpleBlue/SimpleBlue_1.jpg),![img2](doc/Scenery/Scenery_8.jpg)>
+![img1](doc/SimpleBlue/SimpleBlue_1.jpg)
+
+![img2](doc/Scenery/Scenery_8.jpg)
 
 ![img3](doc/Scenery/Scenery_2.jpg)
 
