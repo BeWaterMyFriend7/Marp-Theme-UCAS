@@ -1,5 +1,5 @@
 # Marp-Theme-UCAS
-These are two Marp themes designed for students of UCAS.
+These are two [Marp](https://github.com/marp-team/marp) themes designed for students of UCAS.
 
 if you want to use it , I strongly recommend that you check the generated pdf file first.
 
@@ -26,9 +26,7 @@ Marp
 
 ## Some Picture
 
-![img1](doc/SimpleBlue/SimpleBlue_1.jpg)
-
-![img2](doc/Scenery/Scenery_8.jpg)
+<![img1](doc/SimpleBlue/SimpleBlue_1.jpg),![img2](doc/Scenery/Scenery_8.jpg)>
 
 ![img3](doc/Scenery/Scenery_2.jpg)
 
