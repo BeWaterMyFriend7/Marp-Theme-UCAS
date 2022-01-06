@@ -1,10 +1,11 @@
 # Marp-Theme-UCAS
 These are two [Marp](https://github.com/marp-team/marp) themes designed for students of UCAS.
 
-if you want to use it , I strongly recommend that you check the generated pdf file first.
+If you want to use it , I strongly recommend that you check the generated pdf file first.
 
 More details ，click [here](https://mdnice.com/writing/9cb2de742bed48d0b131e35d653515f2)
 
+How to customize a Marp theme, click [here](https://zhuanlan.zhihu.com/p/449668027)
 ## File structure
 
 ```bash
