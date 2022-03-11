@@ -1,4 +1,7 @@
 # Marp-Theme-UCAS 国科大Marp 主题
+
+> 如何使用Markdown做PPT?本仓库是利用Marp实现的国科大markdown Slides
+
 这是为国科大设计的两款 [Marp](https://github.com/marp-team/marp) 主题.
 
 如果你想要使用这两款主题，强烈建议你先看一下生成的pdf文件。
