@@ -1,11 +1,12 @@
-# Marp-Theme-UCAS
-These are two [Marp](https://github.com/marp-team/marp) themes designed for students of UCAS.
+# Marp-Theme-UCAS 国科大Marp 主题
+这是为国科大设计的两款 [Marp](https://github.com/marp-team/marp) 主题.
 
-If you want to use it , I strongly recommend that you check the generated pdf file first.
+如果你想要使用这两款主题，强烈建议你先看一下生成的pdf文件。
 
-More details ，click [here](https://mdnice.com/writing/9cb2de742bed48d0b131e35d653515f2)
+更多使用细节，可以点击 [link](https://mdnice.com/writing/9cb2de742bed48d0b131e35d653515f2)
 
-How to customize a Marp theme, click [here](https://zhuanlan.zhihu.com/p/449668027)
+如果你想自定义Marp主题，可以看一下这篇教程 [link](https://zhuanlan.zhihu.com/p/449668027)
+
 ## File structure
 
 ```bash
