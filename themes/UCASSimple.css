@@ -4,7 +4,6 @@
 @charset "UTF-8";
 @import 'uncover';
 @import url('https://fonts.googleapis.com/css?family=Lato:400,900|Roboto+Mono:400,700&display=swap');
-@import '~highlight.js/styles/sunburst';
 
 section {
    font-size: 25px;
